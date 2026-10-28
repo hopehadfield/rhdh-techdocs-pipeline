@@ -10,13 +10,14 @@ These docs are purely for demonstration purposes.
 
 ## intro
 
-This is the introduction section.
+This is the introduction section. 
 
 
 ## features
 
 This section highlights the core features of our system.
 
+Here's an edit.
 
 # Emojis
 
